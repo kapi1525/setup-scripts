@@ -1,5 +1,4 @@
-# Setup openssh server and client
-# Copied some code from: https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
+# Install git and configure commit signing
 
 #Requires -RunAsAdministrator
 
